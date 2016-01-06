@@ -1,0 +1,161 @@
+body {
+    font:12px verdana;
+    color: #222;
+    text-align:center;
+    padding:35px; 
+    background: url(Presentation/2.jpg) no-repeat center center fixed; 
+    background-size: cover;
+}
+
+h1 { 
+    color:black; 
+}
+
+h4 { 
+    color:black; 
+}
+
+a {
+    color:black;
+}
+
+#title{ 
+    float:top;
+}
+  
+input { 
+    font:12px verdana; 
+}
+  
+#wrapper, #loginform {
+    margin:0 auto;
+    padding-bottom:25px;
+    background:#FFFAF0;
+    width:504px;
+    border:1px solid #ACD8F0; 
+}
+  
+#friend {
+    text-align:left;
+    line-height:20px;
+    opacity:1;
+    background:white;
+    height:300px;
+    width:100px;
+    float:left;
+    border:5px solid #000000;
+    overflow:hidden; 
+}
+
+#wrapperUser {
+    text-align:center;
+    line-height:30px;
+    height:300px;
+    width:100px;
+    float:left; 
+}
+
+#adduser {
+    margin-left: auto;
+    text-align:left; 
+    border:5px solid #000000; 
+    background:#FFFAF0; 
+    width:auto;
+    max-width: 100px;
+}
+
+#chatbox {
+    text-align:left;
+    line-height:20px;
+    margin-left: 100px;
+    background:white;
+    height:auto;
+    min-height: 300px;
+    max-height: 350px;
+    border:5px solid #000000;
+    overflow:auto; 
+    width:100%;
+    min-width: 300px;
+    max-width: 100%;
+    margin: 0 30px;
+    opacity:1;
+}
+
+#wrapperChat {
+    text-align:center;
+    line-height:30px;
+    margin-left: 100px;
+    height:700px;
+    margin-right: 4%;
+}
+
+#usermsg {
+    margin-left: 100px;
+    width:100%;
+    min-width: 300px;
+    max-width: 100%;
+    border:5px solid #000000; 
+    background:#FFFAF0;
+    margin: 0 30px;
+}
+  
+.submit { 
+    width: auto; 
+    margin: auto;
+}
+
+#send {
+    margin-left: 20px;
+}
+
+.logout {
+    color: blue;
+    text-decoration: underline;
+    float:right; 
+    border: none;
+    background:none; 
+    font:14px verdana;
+}
+
+.enterText {
+    border:5px solid #000000; 
+    background:#FFFAF0; 
+    margin-left: auto;
+}
+
+#confirm { 
+    width: auto; 
+    margin: 10px;
+    margin-top: 10px;
+    margin-left: auto;
+}
+
+#table {
+    margin:auto;
+    text-align:center; 
+}
+
+tr {
+  text-align:left;
+}
+
+th {
+  text-align:right;   
+}
+
+td {
+    margin:auto;
+    text-align:center; 
+}
+
+h25 {
+    color:grey;
+    font-size: 10px;
+}
+
+.friendList {
+    overflow: hidden;
+    background-image: none;
+    height:300px;
+    width:100%;
+}
